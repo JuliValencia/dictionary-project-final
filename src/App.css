@@ -1,0 +1,23 @@
+body {
+  background-image: linear-gradient(
+      rgb(131, 105, 70, 0.5),
+      rgb(131, 105, 70, 0.5)
+    ),
+    url("./background.jpeg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #836946;
+  padding: 100px 100px 600px;
+  margin: 0 auto;
+}
+
+a {
+  color: #eca451;
+}
+
+footer {
+  color: #f7f3ef;
+  text-shadow: #836946;
+  font-weight: bold;
+  font-size: 15px;
+}
