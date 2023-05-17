@@ -20,7 +20,7 @@ function App() {
           </a>{" "}
           and is{" "}
           <a
-            href="https://github.com/JuliValencia/dictionary-project"
+            href="https://github.com/JuliValencia/dictionary-project-final"
             target="_blank"
             rel="noopener noreferrer"
           >
